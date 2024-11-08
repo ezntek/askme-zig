@@ -1,0 +1,25 @@
+{
+    "title": "my quiz",
+    "questions": [
+        {
+            "title": "are apples red?",
+            "answer": "yes",
+            "reward": 1
+        },
+        {
+            "title": "is a tomato a fruit or a vegetable",
+            "answer": "both",
+            "reward": 2
+        },
+        {
+            "title": "what is it called when you allocate memory but forget to free it?",
+            "answer": "skill issue",
+            "reward": 1
+        },
+        {
+            "title": "is beej an attractive man?",
+            "answer": "yes",
+            "reward": 100
+        }
+    ]
+}
